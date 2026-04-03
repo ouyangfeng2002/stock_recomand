@@ -11,7 +11,7 @@
 ## 📱 联系与交流
 
 如需进一步了解分析思路或交流学习，可添加微信
-<img src="assets/wechat_qr.png" width="5000">
+<img src="assets/wechat_qr.png" width="500">
 
 
 ## ⚖️ 免责声明
